@@ -7,3 +7,6 @@ This simple C++ program generates a random password of the specified length. It 
 2. Enter the desired length of the password.
 3. The program will generate a random password and display it.
 4. Optionally, choose to generate another password or exit.
+<br></br>
+
+Feel free to suggest any improvements or contribute to the project!
